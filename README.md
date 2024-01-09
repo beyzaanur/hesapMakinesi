@@ -1,2 +1,2 @@
-switch case ile hesap makinesi yapımı
+switch case ile basit hesap makinesi yapımı
 # hesapMakinesi
